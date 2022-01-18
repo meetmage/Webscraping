@@ -1,2 +1,2 @@
 # Webscraping
-Using the python module beautiful soup to web scrape a basketball website for scores
+Using the python module beautiful soup to scrape data from the source HTML code on any web page.
